@@ -1,0 +1,1 @@
+to run the notebooks properly, this folder needs to have the folder HT21 and everything inside it

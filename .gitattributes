@@ -1,0 +1,2 @@
+data/temp.pth filter=lfs diff=lfs merge=lfs -text
+data/trained_model_old.pth filter=lfs diff=lfs merge=lfs -text
